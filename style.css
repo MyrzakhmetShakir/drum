@@ -1,0 +1,21 @@
+h1 {color:white; font-size: 7rem; font-family: 'Tapestry', cursive;
+text-shadow: 3px 4px 3px #A12568;}
+body {background-color: #C4DDFF; text-align: center;}
+
+#container { display: block; background-color: #711A75; border-radius: 30px;
+  width: 70%; border: 1px solid white; margin: 70px auto 0 auto;
+}
+
+.drum {height: 140px; width: 140px; margin: 20px; background-color: #FEC260;
+       font-size: 5rem; margin-top: 100px; border-radius: 10px;
+       box-shadow: 0 0 10px white; font-weight: bolder;
+       color:#A12568;}
+
+
+.anim {
+  box-shadow: 0 3px 5px 0px white;
+  opacity: 0.5;
+}
+
+.name {margin-top: 100px; margin-bottom: 50px; color: white;}
+hr {width: 70%; margin-top: 100px; border-style: none;  border-top: 1px dotted white;}
